@@ -1,6 +1,7 @@
 ## Git Cheat Sheet
 
 Overview of git commands.
+Some text added on main branch to create a merge conflict
 
 ### Basic Commands
 * `git init` - initialize a local git repo
