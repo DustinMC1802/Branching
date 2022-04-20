@@ -1,10 +1,12 @@
 ## Git Cheat Sheet
 
 Overview of git commands.
-NewBranch conflict stuff
+
+
 
 Git rocks!
-more text here.
+
+
 
 ### Basic Commands
 * `git init` - initialize a local git repo
